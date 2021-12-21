@@ -6,8 +6,6 @@ Stack Dash is a flashcards web app designed to study for the Lambda School web c
 
 Check it out at stackdash.com
 
-Check out the lightning talk from Lambda School's Roundtable in May 2021 where I demo the app, describe the design process, and dive into some features.
-
 Getting Started
 The base technologies are JavaScript, HTML and CSS. The frontend leverages React, the backend uses Express and SQLite and the app lives on Heroku.
 
